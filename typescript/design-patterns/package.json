@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "design patterns abstract factory",
+  "main": "abstract-factory.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "tsc":"tsc --build tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
